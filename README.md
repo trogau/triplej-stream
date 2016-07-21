@@ -7,6 +7,10 @@ I've been using this for years but every now and then I end up on a new PC that 
 
 I typically invoke most of my applications from the command line, so this is set up so you can simply type 'triplej' in any command prompt and it will start streaming. If you eschew typing things to make your computer do stuff, you can simply get the .pls file and double click it. 
 
+## Note
+
+As at 21 July 2016, this no longer works. The current ABC index of streams is at: https://radio.abc.net.au/help/streams
+
 ## Requirements
 
 - A media player that handles .pls files (I use Winamp).
